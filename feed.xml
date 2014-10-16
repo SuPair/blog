@@ -5,9 +5,33 @@
     <description>Ruby on Rails 教程的最新消息</description>
     <link>http://railstutorial-china.org/blog/</link>
     <atom:link href="http://railstutorial-china.org/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 01 Oct 2014 17:43:54 +0800</pubDate>
-    <lastBuildDate>Wed, 01 Oct 2014 17:43:54 +0800</lastBuildDate>
+    <pubDate>Thu, 16 Oct 2014 08:50:24 +0000</pubDate>
+    <lastBuildDate>Thu, 16 Oct 2014 08:50:24 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>英文原书第三版正式发布</title>
+        <description>&lt;p&gt;《Ruby on Rails Tutorial》（第三版）英文原书正式发布。简体中文版正在紧急翻译中。最新消息，请关注这个博客。&lt;/p&gt;
+
+&lt;p&gt;第三版和之前的版本有以下变化：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;使用云端集成开发环境&lt;/strong&gt;。在这个环境中提供了专为本书配置的环境。使用 Cloud9 IDE 可以避免前一版安装和配置本地环境遇到的各种问题。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;完全使用 Rails 默认开发工具栈&lt;/strong&gt;，避免一些额外的配置。RSpec 换成了 MiniTest，以便更好地介绍测试技术。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;轻量级测试策略&lt;/strong&gt;。第三版仍会介绍测试驱动开发，但使用的策略更保守，不再于编写代码之前先编写测试，然是在写完应用代码之后再编写集成测试。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;完全重写介绍登录和认证功能的章节&lt;/strong&gt;。第 8 章完全重写，介绍常用的三种登录方式：浏览器关闭后清除会话，自动记住用户，以及提供“记住我”选项，让用户选择是否记住登录状态。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;新增一节介绍图片上传&lt;/strong&gt;。第 11 章新增一节介绍如何在本书开发的演示应用中上传图片。其中包括客户端和服务器端验证，自动剪裁图片，以及如何在生产环境中使用云端存储服务（Amazon S3）。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;新增一章介绍账户激活和密码重设，记忆如何在 Rails 应用中发送电子邮件&lt;/strong&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;简体中文版正在紧急翻译中，现在你可以先购买第二版，等第三版发布后，会为你提供第三版的优惠码。详情参见：&lt;a href=&quot;https://ruby-china.org/topics/21335&quot;&gt;https://ruby-china.org/topics/21335&lt;/a&gt;。&lt;/p&gt;
+</description>
+        <pubDate>Thu, 16 Oct 2014 16:40:00 +0000</pubDate>
+        <link>http://railstutorial-china.org/blog/original-third-edition-released.html</link>
+        <guid isPermaLink="true">http://railstutorial-china.org/blog/original-third-edition-released.html</guid>
+        
+        
+      </item>
     
   </channel>
 </rss>
