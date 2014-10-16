@@ -15,3 +15,5 @@ permalink: :title.html
 
 exclude: [".ruby-version", "README.md", "Rakefile", "Gemfile", "Gemfile.lock"]
 keep_files: ['.git', '.nojekyll', 'assets']
+
+timezone: '+0800'
