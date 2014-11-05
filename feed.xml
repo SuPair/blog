@@ -5,9 +5,56 @@
     <description>Ruby on Rails 教程的最新消息</description>
     <link>http://railstutorial-china.org/blog/</link>
     <atom:link href="http://railstutorial-china.org/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 24 Oct 2014 09:49:03 +0000</pubDate>
-    <lastBuildDate>Fri, 24 Oct 2014 09:49:03 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Nov 2014 06:55:07 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Nov 2014 06:55:07 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>关于 Heroku Cedar-14 的说明</title>
+        <description>&lt;p&gt;Heroku 于近日&lt;a href=&quot;https://blog.heroku.com/archives/2014/11/4/cedar_14_now_generally_available&quot;&gt;升级了低层组件&lt;/a&gt;，如果你使用 &lt;a href=&quot;http://c9.io/&quot;&gt;Cloud9&lt;/a&gt; 可能会受到影响。当然，如果你在自己的设备中开发也可能有影响。如果部署到 Heroku 时遇到以下错误，请按照本文的方法升级 Ruby 到 2.1.4 版。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;local/Cloud9 =&amp;gt; Your Ruby version is 2.1.1, but your Gemfile specified 2.1.4
+
+Heroku =&amp;gt; Only the most recent version of Ruby 2.1 is supported on Cedar-14
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;为了本书读者着想，原版作者 Michael 已经联系 Cloud9，希望能把 Rails 教程使用的工作空间默认使用的 Ruby 升级到 2.1.4。在 Cloud9 升级之前，你可以自行升级。Cloud9 使用 &lt;a href=&quot;http://rvm.io/&quot;&gt;rvm&lt;/a&gt; 管理 Ruby，所以可以在 Cloud9 的命令行中执行下面的命令升级 Ruby：&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ rvm install 2.1.4
+$ rvm use 2.1.4
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;如果编译 Ruby 的时间过长（超过 20 分钟），请换用下面的命令（&lt;a href=&quot;http://stackoverflow.com/questions/26069506/ruby-2-1-3-installation-in-ubuntu-14-04-1-hang/26151026#26151026&quot;&gt;via&lt;/a&gt;）：&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ rvm install 2.1.4 -- --with-setjmp-type=setjmp
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;然后把 &lt;code&gt;Gemfile&lt;/code&gt; 中的 Ruby 版本改为 &lt;code&gt;2.1.4&lt;/code&gt;，再重新部署：&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ git commit -am &quot;Update Ruby version&quot;
+$ git push heroku
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;如果你在本地设备中使用 &lt;code&gt;rbenv&lt;/code&gt;，可以使用下列命令升级 Ruby：&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ cd ~/.rbenv/plugins/ruby-build/
+$ git pull
+$ rbenv install 2.1.4
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;同样，如果编译时间过长，请换用下面的命令安装：&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ RUBY_CONFIGURE_OPTS=&quot;--with-setjmp-type=setjmp&quot; rbenv install 2.1.4
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;（本文编译自 &lt;a href=&quot;http://news.railstutorial.org/heroku-update/&quot;&gt;Rails Tutorial 的博客&lt;/a&gt;。）&lt;/p&gt;
+</description>
+        <pubDate>Wed, 05 Nov 2014 14:10:00 +0000</pubDate>
+        <link>http://railstutorial-china.org/blog/heroku-cedar-14.html</link>
+        <guid isPermaLink="true">http://railstutorial-china.org/blog/heroku-cedar-14.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>原书第三版简体中文版接受预定</title>
