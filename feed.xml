@@ -5,9 +5,26 @@
     <description>Ruby on Rails 教程的最新消息</description>
     <link>http://railstutorial-china.org/blog/</link>
     <atom:link href="http://railstutorial-china.org/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 05 Nov 2014 06:55:07 +0000</pubDate>
-    <lastBuildDate>Wed, 05 Nov 2014 06:55:07 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Nov 2014 11:53:59 +0000</pubDate>
+    <lastBuildDate>Mon, 17 Nov 2014 11:53:59 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>第 3 版正式发布</title>
+        <description>&lt;p&gt;历时一个半月，今天《Ruby on Rails 教程》（原书第 3 版）初译结束了。在接下来的几天，我会校对全书，并做统筹调整。届时会发布 1.0.0 版。&lt;/p&gt;
+
+&lt;p&gt;第 3 版和第 2 版相比，变动的内容很多，最大的变化是由测试“驱动”开发变成测试“辅助”开发。而且在第 2 版的基础上增加了一些内容，详情参阅&lt;a href=&quot;/original-third-edition-released.html&quot;&gt;之前的文章&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;现在，你可以通过 &lt;a href=&quot;https://selfstore.io/products/189&quot;&gt;SelfStore&lt;/a&gt; 或者 &lt;a href=&quot;https://sellfy.com/p/Lw8D&quot;&gt;Sellfy&lt;/a&gt; 购买第 3 版的电子书了。&lt;/p&gt;
+
+&lt;p class=&quot;text-center&quot;&gt;&lt;a class=&quot;btn btn-lg btn-warning&quot; href=&quot;https://selfstore.io/products/189&quot; title=&quot;去 SelfStore 购买电子书&quot;&gt;去 SelfStore 购买&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;或&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a class=&quot;btn btn-lg btn-warning&quot; href=&quot;https://sellfy.com/p/Lw8D&quot; title=&quot;去 Sellfy 购买电子书&quot;&gt;去 Sellfy 购买&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 17 Nov 2014 20:10:00 +0000</pubDate>
+        <link>http://railstutorial-china.org/blog/third-edition.html</link>
+        <guid isPermaLink="true">http://railstutorial-china.org/blog/third-edition.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>关于 Heroku Cedar-14 的说明</title>
