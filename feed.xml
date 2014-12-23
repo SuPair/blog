@@ -5,9 +5,39 @@
     <description>Ruby on Rails 教程的最新消息</description>
     <link>http://railstutorial-china.org/blog/</link>
     <atom:link href="http://railstutorial-china.org/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 02 Dec 2014 08:04:17 +0000</pubDate>
-    <lastBuildDate>Tue, 02 Dec 2014 08:04:17 +0000</lastBuildDate>
+    <pubDate>Tue, 23 Dec 2014 08:49:05 +0000</pubDate>
+    <lastBuildDate>Tue, 23 Dec 2014 08:49:05 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>教育优惠</title>
+        <description>&lt;p&gt;为了让更多的学生接触先进的 Web 开发技术，减轻在校生的负担，今天起，《Ruby on Rails 教程》为在校生提供特殊的“教育优惠”：凡在校生购买《Ruby on Rails 教程》，&lt;strong&gt;享七折优惠&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;“教育优惠”的实施细节如下：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;购买前，把你有效的在校证明（初中，高中，大学）通过&lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#097;&amp;#110;&amp;#100;&amp;#111;&amp;#114;&amp;#046;&amp;#099;&amp;#104;&amp;#101;&amp;#110;&amp;#046;&amp;#050;&amp;#055;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;电子邮件&lt;/a&gt;发给我；&lt;/li&gt;
+  &lt;li&gt;经我确认后，向你提供七折优惠码；&lt;/li&gt;
+  &lt;li&gt;你使用优惠码，以原价的七折购买《Ruby on Rails 教程》。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;说明：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;这是一项针对在校生的优惠措施，请勿滥用；&lt;/li&gt;
+  &lt;li&gt;我会通过我认为合理的方式判断你是否为在校生；&lt;/li&gt;
+  &lt;li&gt;以前购买过本书的读者，如果是在校生，不退差价；&lt;/li&gt;
+  &lt;li&gt;如果购买过第 2 版，作为在校生再购买第 3 版，仍只享老读者的五折优惠，没有折上折；&lt;/li&gt;
+  &lt;li&gt;这是一项长期优惠措施，不受时间限制，一直进行下去，除非明确通知此项优惠失效；&lt;/li&gt;
+  &lt;li&gt;安道保留最终解释权。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 23 Dec 2014 17:10:00 +0000</pubDate>
+        <link>http://railstutorial-china.org/blog/education.html</link>
+        <guid isPermaLink="true">http://railstutorial-china.org/blog/education.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>第 3 版正式发布</title>
