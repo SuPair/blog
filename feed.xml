@@ -5,8 +5,8 @@
     <description>Ruby on Rails 教程的最新消息</description>
     <link>http://railstutorial-china.org/blog/</link>
     <atom:link href="http://railstutorial-china.org/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 23 Dec 2014 08:54:58 +0000</pubDate>
-    <lastBuildDate>Tue, 23 Dec 2014 08:54:58 +0000</lastBuildDate>
+    <pubDate>Wed, 24 Dec 2014 05:22:59 +0000</pubDate>
+    <lastBuildDate>Wed, 24 Dec 2014 05:22:59 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -16,7 +16,7 @@
 &lt;p&gt;“教育优惠”的实施细节如下：&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;购买前，把你有效的在校证明（初中，高中，大学）通过&lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#097;&amp;#110;&amp;#100;&amp;#111;&amp;#114;&amp;#046;&amp;#099;&amp;#104;&amp;#101;&amp;#110;&amp;#046;&amp;#050;&amp;#055;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;电子邮件&lt;/a&gt;发给我；&lt;/li&gt;
+  &lt;li&gt;购买前，把你有效的在校证明（初中，高中，大学）通过&lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#097;&amp;#110;&amp;#100;&amp;#111;&amp;#114;&amp;#046;&amp;#099;&amp;#104;&amp;#101;&amp;#110;&amp;#046;&amp;#050;&amp;#055;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;电子邮件&lt;/a&gt;发给我，并告诉我你想使用支付宝还是 PayPal 支付；&lt;/li&gt;
   &lt;li&gt;经我确认后，向你提供七折优惠码；&lt;/li&gt;
   &lt;li&gt;你使用优惠码，以原价的七折购买《Ruby on Rails 教程》。&lt;/li&gt;
 &lt;/ol&gt;
